@@ -13,10 +13,36 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\Ch1.数组">
+      <UniqueIdentifier>{68c0b838-4f27-4d86-a37e-61ea257b5cd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Ch1.数组\Day1">
+      <UniqueIdentifier>{1a508b8b-2a72-450c-b883-7951e03c90ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Ch1.数组\Day2">
+      <UniqueIdentifier>{0311fb92-3aa5-4a1b-84ed-a77ec286c989}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SecondCongtouAlgorithm.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="数组：二分查找.cpp">
+      <Filter>源文件\Ch1.数组\Day1</Filter>
     </ClCompile>
+    <ClCompile Include="数组：移除元素.cpp">
+      <Filter>源文件\Ch1.数组\Day1</Filter>
+    </ClCompile>
+    <ClCompile Include="数组：有序数组的平方.cpp">
+      <Filter>源文件\Ch1.数组\Day2</Filter>
+    </ClCompile>
+    <ClCompile Include="数组：长度最小的子数组.cpp">
+      <Filter>源文件\Ch1.数组\Day2</Filter>
+    </ClCompile>
+    <ClCompile Include="数组：螺旋矩阵II.cpp">
+      <Filter>源文件\Ch1.数组\Day2</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Cong.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
