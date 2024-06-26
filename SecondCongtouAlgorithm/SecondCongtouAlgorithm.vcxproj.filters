@@ -22,6 +22,15 @@
     <Filter Include="源文件\Ch1.数组\Day2">
       <UniqueIdentifier>{0311fb92-3aa5-4a1b-84ed-a77ec286c989}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Ch2.链表">
+      <UniqueIdentifier>{3384ddb2-9076-4f6c-b6cc-6c5321367f38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Ch2.链表\Day3">
+      <UniqueIdentifier>{207b8e12-98dd-450b-bbc8-ee458da7edd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Ch2.链表\Day4">
+      <UniqueIdentifier>{3790bbd7-4b30-4d82-939b-433a56775b87}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="数组：二分查找.cpp">
@@ -38,6 +47,27 @@
     </ClCompile>
     <ClCompile Include="数组：螺旋矩阵II.cpp">
       <Filter>源文件\Ch1.数组\Day2</Filter>
+    </ClCompile>
+    <ClCompile Include="链表：移除链表元素.cpp">
+      <Filter>源文件\Ch2.链表\Day3</Filter>
+    </ClCompile>
+    <ClCompile Include="链表：设计链表.cpp">
+      <Filter>源文件\Ch2.链表\Day3</Filter>
+    </ClCompile>
+    <ClCompile Include="链表：反转链表.cpp">
+      <Filter>源文件\Ch2.链表\Day3</Filter>
+    </ClCompile>
+    <ClCompile Include="链表：两两交换链表中的节点.cpp">
+      <Filter>源文件\Ch2.链表\Day4</Filter>
+    </ClCompile>
+    <ClCompile Include="链表：删除链表的倒数第N个节点.cpp">
+      <Filter>源文件\Ch2.链表\Day4</Filter>
+    </ClCompile>
+    <ClCompile Include="链表：链表相交.cpp">
+      <Filter>源文件\Ch2.链表\Day4</Filter>
+    </ClCompile>
+    <ClCompile Include="链表：环形链表.cpp">
+      <Filter>源文件\Ch2.链表\Day4</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

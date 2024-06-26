@@ -20,10 +20,10 @@ public:
     }
 };
 
-int main()
-{
-    Solution solution;
-    vector<int> data = { 2, 3, 1, 2, 4, 3 };
-    cout << solution.minSubArrayLen(7, data);
-    return 0;
-}
+//int main()
+//{
+//    Solution solution;
+//    vector<int> data = { 2, 3, 1, 2, 4, 3 };
+//    cout << solution.minSubArrayLen(7, data);
+//    return 0;
+//}

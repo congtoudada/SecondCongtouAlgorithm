@@ -139,11 +139,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="链表：删除链表的倒数第N个节点.cpp" />
     <ClCompile Include="数组：二分查找.cpp" />
     <ClCompile Include="数组：有序数组的平方.cpp" />
     <ClCompile Include="数组：移除元素.cpp" />
     <ClCompile Include="数组：螺旋矩阵II.cpp" />
     <ClCompile Include="数组：长度最小的子数组.cpp" />
+    <ClCompile Include="链表：两两交换链表中的节点.cpp" />
+    <ClCompile Include="链表：反转链表.cpp" />
+    <ClCompile Include="链表：环形链表.cpp" />
+    <ClCompile Include="链表：移除链表元素.cpp" />
+    <ClCompile Include="链表：设计链表.cpp" />
+    <ClCompile Include="链表：链表相交.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Cong.h" />
