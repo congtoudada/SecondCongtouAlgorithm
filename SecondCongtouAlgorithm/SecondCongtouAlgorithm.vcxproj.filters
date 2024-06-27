@@ -31,6 +31,12 @@
     <Filter Include="源文件\Ch2.链表\Day4">
       <UniqueIdentifier>{3790bbd7-4b30-4d82-939b-433a56775b87}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Ch3.哈希表">
+      <UniqueIdentifier>{66f22522-0160-40a1-b72e-4681e5d2fd27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Ch3.哈希表\Day5">
+      <UniqueIdentifier>{00288732-4a06-40e3-ae22-f68bfd24f4d9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="数组：二分查找.cpp">
@@ -68,6 +74,18 @@
     </ClCompile>
     <ClCompile Include="链表：环形链表.cpp">
       <Filter>源文件\Ch2.链表\Day4</Filter>
+    </ClCompile>
+    <ClCompile Include="哈希表：有效的字母异位词.cpp">
+      <Filter>源文件\Ch3.哈希表\Day5</Filter>
+    </ClCompile>
+    <ClCompile Include="哈希表：两个数组的交集.cpp">
+      <Filter>源文件\Ch3.哈希表\Day5</Filter>
+    </ClCompile>
+    <ClCompile Include="哈希表：快乐数.cpp">
+      <Filter>源文件\Ch3.哈希表\Day5</Filter>
+    </ClCompile>
+    <ClCompile Include="哈希表：两数之和.cpp">
+      <Filter>源文件\Ch3.哈希表\Day5</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

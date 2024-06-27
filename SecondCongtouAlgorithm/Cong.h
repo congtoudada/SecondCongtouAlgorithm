@@ -1,7 +1,10 @@
 #pragma once
 #include <iostream>
 #include <vector>
-
+#include <string>
+#include <queue>
+#include <unordered_set>
+#include <unordered_map>
 using namespace std;
 
 //Definition for singly-linked list.

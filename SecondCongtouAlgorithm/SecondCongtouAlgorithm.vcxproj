@@ -139,6 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="哈希表：两个数组的交集.cpp" />
+    <ClCompile Include="哈希表：两数之和.cpp" />
+    <ClCompile Include="哈希表：快乐数.cpp" />
+    <ClCompile Include="哈希表：有效的字母异位词.cpp" />
     <ClCompile Include="链表：删除链表的倒数第N个节点.cpp" />
     <ClCompile Include="数组：二分查找.cpp" />
     <ClCompile Include="数组：有序数组的平方.cpp" />
