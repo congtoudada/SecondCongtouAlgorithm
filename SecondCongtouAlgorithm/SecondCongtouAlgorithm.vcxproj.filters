@@ -37,6 +37,9 @@
     <Filter Include="源文件\Ch3.哈希表\Day5">
       <UniqueIdentifier>{00288732-4a06-40e3-ae22-f68bfd24f4d9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Ch3.哈希表\Day6">
+      <UniqueIdentifier>{9819eea9-6165-4503-8347-ecc85f2c0ea7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="数组：二分查找.cpp">
@@ -86,6 +89,18 @@
     </ClCompile>
     <ClCompile Include="哈希表：两数之和.cpp">
       <Filter>源文件\Ch3.哈希表\Day5</Filter>
+    </ClCompile>
+    <ClCompile Include="哈希表：四数相加II.cpp">
+      <Filter>源文件\Ch3.哈希表\Day6</Filter>
+    </ClCompile>
+    <ClCompile Include="哈希表：赎金信.cpp">
+      <Filter>源文件\Ch3.哈希表\Day6</Filter>
+    </ClCompile>
+    <ClCompile Include="哈希表：三数之和.cpp">
+      <Filter>源文件\Ch3.哈希表\Day6</Filter>
+    </ClCompile>
+    <ClCompile Include="哈希表：四数之和.cpp">
+      <Filter>源文件\Ch3.哈希表\Day6</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
