@@ -147,6 +147,9 @@
     <ClCompile Include="哈希表：快乐数.cpp" />
     <ClCompile Include="哈希表：有效的字母异位词.cpp" />
     <ClCompile Include="哈希表：赎金信.cpp" />
+    <ClCompile Include="字符串：反转字符串.cpp" />
+    <ClCompile Include="字符串：反转字符串II.cpp" />
+    <ClCompile Include="字符串：替换数字.cpp" />
     <ClCompile Include="链表：删除链表的倒数第N个节点.cpp" />
     <ClCompile Include="数组：二分查找.cpp" />
     <ClCompile Include="数组：有序数组的平方.cpp" />

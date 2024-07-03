@@ -40,6 +40,15 @@
     <Filter Include="源文件\Ch3.哈希表\Day6">
       <UniqueIdentifier>{9819eea9-6165-4503-8347-ecc85f2c0ea7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Ch4.字符串">
+      <UniqueIdentifier>{ca366557-361b-42d2-a0a6-7816bd3fe898}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Ch4.字符串\Day7">
+      <UniqueIdentifier>{9161bb20-313f-4889-bced-24c6e000dba1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Ch4.字符串\Day8">
+      <UniqueIdentifier>{ef2feb40-de6f-4433-b8b0-b2683f1981fa}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="数组：二分查找.cpp">
@@ -101,6 +110,15 @@
     </ClCompile>
     <ClCompile Include="哈希表：四数之和.cpp">
       <Filter>源文件\Ch3.哈希表\Day6</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串：反转字符串.cpp">
+      <Filter>源文件\Ch4.字符串\Day7</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串：反转字符串II.cpp">
+      <Filter>源文件\Ch4.字符串\Day7</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串：替换数字.cpp">
+      <Filter>源文件\Ch4.字符串\Day7</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
